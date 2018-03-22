@@ -8,3 +8,10 @@ With this notebook I want to help you focus and figure out where to start, witho
 
 For any questions you can drop me a line.
 If there is something wrong or not working also let me know, please.
+
+[Watch this without any config](https://nbviewer.jupyter.org/github/skulas/Intro_to_ML/blob/master/Machine_Learning/Machine%20Learning%20Synthesis.ipynb)
+
+Otherwise you can setup a Python environment with jupyter in it and play around with the notebook.
+
+I really put a lot of effort on this. Hope you like it and that I saved you a few days.
+
